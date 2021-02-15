@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/TooTallNate/node-https-proxy-agent.git"
+    "url": "git://github.com/shubhamkumar-juspay/node-https-proxy-agent.git"
   },
   "keywords": [
     "https",
@@ -30,7 +30,7 @@
   "author": "Nathan Rajlich <nathan@tootallnate.net> (http://n8.io/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TooTallNate/node-https-proxy-agent/issues"
+    "url": "https://github.com/shubhamkumar-juspay/node-https-proxy-agent/issues"
   },
   "dependencies": {
     "agent-base": "6",
